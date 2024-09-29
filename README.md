@@ -36,7 +36,7 @@ Welcome to **Flavour Land**, a modern and responsive restaurant website built wi
 
 ### Installation
 
--Clone the repository:
+- Clone the repository:
 
    ```bash
    git clone https://github.com/ismaeeldev/FlavorLand.git
@@ -51,4 +51,7 @@ Welcome to **Flavour Land**, a modern and responsive restaurant website built wi
 │   └── index.js      # Entry point
 ├── package.json      # Project metadata and dependencies
 └── README.md         # Project documentation
+
+```
+You can copy and paste this into your `README.md` file directly. Let me know if you need any adjustments!
 
