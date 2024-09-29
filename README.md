@@ -42,15 +42,9 @@ Welcome to **Flavour Land**, a modern and responsive restaurant website built wi
    git clone https://github.com/ismaeeldev/FlavorLand.git
 
 ### Project Structure
-├── public
-├── src
-│   ├── components    # React components (e.g., Navbar, Footer, Cart)
-│   ├── pages         # Pages like Home, Products, Contact
-│   ├── context       # Context API for managing cart state
-│   ├── App.js        # Main application file
-│   └── index.js      # Entry point
-├── package.json      # Project metadata and dependencies
-└── README.md         # Project documentation
+
+![image](https://github.com/user-attachments/assets/37c7d6ef-7a44-48f2-96fd-01c9fa56eab0)
+
 
 ```
 You can copy and paste this into your `README.md` file directly. Let me know if you need any adjustments!
