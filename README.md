@@ -24,7 +24,8 @@ Welcome to **Flavour Land**, a modern and responsive restaurant website built wi
 
 ## Screenshots
 
-Add screenshots of the app here to showcase the UI.
+![image](https://github.com/user-attachments/assets/9834392a-d534-45c6-b6ba-fb8bc6e61880)
+
 
 ## Getting Started
 
@@ -35,7 +36,19 @@ Add screenshots of the app here to showcase the UI.
 
 ### Installation
 
-1. Clone the repository:
+-Clone the repository:
 
    ```bash
    git clone https://github.com/ismaeeldev/FlavorLand.git
+
+### Project Structure
+├── public
+├── src
+│   ├── components    # React components (e.g., Navbar, Footer, Cart)
+│   ├── pages         # Pages like Home, Products, Contact
+│   ├── context       # Context API for managing cart state
+│   ├── App.js        # Main application file
+│   └── index.js      # Entry point
+├── package.json      # Project metadata and dependencies
+└── README.md         # Project documentation
+
